@@ -1,2 +1,2 @@
 # Arabic-RE
-The repository contains the code for the Arabi RE Share Task
+This repository contains the YafaRE team's code for the Arabi Relation Extraction (RE), Subtask 2 of the KnowledgeGraphEval 2026 Shared Task.
